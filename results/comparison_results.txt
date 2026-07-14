@@ -1,0 +1,17 @@
+Model Comparison
+
+ReLU
+
+Accuracy : 98.35%
+
+Loss : 0.057
+
+Sigmoid
+
+Accuracy : 97.10%
+
+Loss : 0.091
+
+Observation
+
+ReLU converged faster and produced better accuracy.
